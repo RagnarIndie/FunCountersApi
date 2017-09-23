@@ -34,10 +34,10 @@ DB: counters_db
 ```
 
 ## Structure
-```install.sh``` - initial install script
-```run.sh``` - runs Docker env
-```stop.sh``` - stops Docker env
-```remove-images.sh``` - removes all of the built Docker images before cold run
-```/FunCountersApi/volumes/mysqldump/counters_db.sql``` - initial DB dump
-```/FunCountersApi/app/backend``` - backend application sources
-```/FunCountersApi/generate_events.php``` - simple event generator
+* ```install.sh``` - initial install script
+* ```run.sh``` - runs Docker env
+* ```stop.sh``` - stops Docker env
+* ```remove-images.sh``` - removes all of the built Docker images before cold run
+* ```/FunCountersApi/volumes/mysqldump/counters_db.sql``` - initial DB dump
+* ```/FunCountersApi/app/backend``` - backend application sources
+* ```/FunCountersApi/generate_events.php``` - simple event generator
