@@ -1,0 +1,37 @@
+version: '2'
+services:
+  nginx:
+    container_name: counters_nginx
+    build: "./nginx"
+    command: bash /etc/init.d/start.sh
+    links:
+      - php-fpm
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./app/backend:/var/www/counters/web
+
+  php-fpm:
+    container_name: counters_php-fpm
+    build: "./php-fpm"
+    command: bash /etc/init.d/start.sh
+    links:
+      - db
+    ports:
+      - "9009:9009"
+    volumes:
+      - ./app/backend:/var/www/counters/web
+
+  db:
+    container_name: "counters_mysql"
+    image: mariadb
+    ports:
+        - "3306:3306"
+    environment:
+        - MYSQL_ROOT_PASSWORD=root
+        - MYSQL_DATABASE=test
+    volumes:
+        - ./volumes/storage/mariadb:/var/lib/mysql
+        - ./volumes/mysqlconf:/etc/mysql/conf.d
+        - ./volumes/mysqldump:/docker-entrypoint-initdb.d
