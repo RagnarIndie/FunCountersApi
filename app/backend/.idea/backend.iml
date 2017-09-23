@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/alcaeus/mongo-php-adapter" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/mongodb" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/mongodb-odm" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/mongodb/mongodb" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/saxulum/saxulum-doctrine-mongodb-provider" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/asset" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/form" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/inflector" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/intl" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/options-resolver" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/property-access" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/security" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/templating" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/twig-bridge" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/validator" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/twig/twig" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/alcaeus/mongo-php-adapter" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/mongodb" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/mongodb-odm" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/mongodb/mongodb" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/saxulum/saxulum-doctrine-mongodb-provider" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/asset" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/form" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/inflector" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/intl" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/options-resolver" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/property-access" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/security" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/templating" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/twig-bridge" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/validator" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/twig/twig" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/../../../hubrockvoid/app_html/hubrockvoid.dev/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
